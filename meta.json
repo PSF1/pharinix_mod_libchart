@@ -1,0 +1,27 @@
+{
+    "meta":{
+        "name":"Libchart",
+        "slugname":"pharinix_mod_libchart",
+        "version": "1.0",
+        "autor": "(c) 2011 Jean-Marc Trémeaux (http://naku.dohcrew.com/libchart/pages/introduction/)\nPharinix mod Copyright (c), 2015, Pedro Pelaez (aaaaa976@gmail.com)",
+        "website": "https://github.com/PSF1/pharinix_mod_libchart",
+        "description": "Libchart is a free chart creation PHP library, that is easy to use.",
+        "licence": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.10.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
